@@ -9,6 +9,17 @@
 {{ end }}
 
 {{ define "main" }}
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 	{{- if (or .Site.Params.images .Site.Params.bgImg) }}
 	<div class="bg-img"></div>
 	{{- end }}
