@@ -1,4 +1,4 @@
-baseURL = "https://wizardly-mcnulty-eccabd.netlify.com/"
+baseURL = "/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Hugo Hermit"
