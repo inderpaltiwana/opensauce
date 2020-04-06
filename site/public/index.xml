@@ -13,12 +13,48 @@
     
     
     <item>
+      <title>A New World</title>
+      <link>/posts/a-new-world/</link>
+      <pubDate>Mon, 06 Apr 2020 17:31:11 +0100</pubDate>
+      
+      <guid>/posts/a-new-world/</guid>
+      <description>If this works then yes</description>
+    </item>
+    
+    <item>
+      <title>testing</title>
+      <link>/posts/testing-2020-04-05/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/testing-2020-04-05/</guid>
+      <description>testing</description>
+    </item>
+    
+    <item>
       <title>hello darkness</title>
       <link>/post/hello-darkness/</link>
       <pubDate>Sun, 05 Apr 2020 00:28:29 +0100</pubDate>
       
       <guid>/post/hello-darkness/</guid>
       <description>hello</description>
+    </item>
+    
+    <item>
+      <title>testing</title>
+      <link>/posts/testing/</link>
+      <pubDate>Sun, 05 Apr 2020 00:06:33 +0100</pubDate>
+      
+      <guid>/posts/testing/</guid>
+      <description>123</description>
+    </item>
+    
+    <item>
+      <title>am i working</title>
+      <link>/posts/am-i-working/</link>
+      <pubDate>Sat, 04 Apr 2020 23:42:47 +0100</pubDate>
+      
+      <guid>/posts/am-i-working/</guid>
+      <description>a</description>
     </item>
     
     <item>
@@ -40,6 +76,15 @@
     </item>
     
     <item>
+      <title>Am I broken?</title>
+      <link>/posts/am-i-broken/</link>
+      <pubDate>Sat, 04 Apr 2020 23:23:29 +0100</pubDate>
+      
+      <guid>/posts/am-i-broken/</guid>
+      <description>???</description>
+    </item>
+    
+    <item>
       <title>OpenSauces First Tech Blog</title>
       <link>/post/opensauces-first-tech-blog/</link>
       <pubDate>Sat, 04 Apr 2020 22:41:01 +0100</pubDate>
@@ -52,34 +97,15 @@ The creators of opensauce.cloud </description>
     </item>
     
     <item>
-      <title>tech</title>
-      <link>/tech/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      <title>OpenSauces First Tech Blog</title>
+      <link>/posts/opensauces-first-tech-blog/</link>
+      <pubDate>Sat, 04 Apr 2020 22:41:01 +0100</pubDate>
       
-      <guid>/tech/</guid>
-      <description>Victor Hugo A Hugo boilerplate for creating truly epic websites This is a boilerplate for using Hugo as a static site generator and Webpack as your asset pipeline. Victor Hugo setup to use PostCSS and Babel for CSS and JavaScript compiling/transpiling. This project is released under the MIT license. Please make sure you understand its implications and guarantees.
-Enjoy!! 😸 </description>
-    </item>
-    
-    <item>
-      <title>Just in: small batch of Jamaican Blue Mountain in store next week</title>
-      <link>/automation/jamaica-blue/</link>
-      <pubDate>Wed, 04 Jan 2017 15:04:10 +0000</pubDate>
-      
-      <guid>/automation/jamaica-blue/</guid>
-      <description>We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.</description>
-    </item>
-    
-    <item>
-      <title>About Hugo</title>
-      <link>/about-hugo/about-hugo/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/about-hugo/about-hugo/</guid>
-      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
-It makes use of a variety of open source projects including:
- https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
+      <guid>/posts/opensauces-first-tech-blog/</guid>
+      <description>There are many tech blogs and websites out there covering what is useful information and all things tech.
+How can opensauce stand out. We will have to find this out together, experiencing the highs and lows of building and discussing all things technology and sauce.
+Until next time.
+The creators of opensauce.cloud </description>
     </item>
     
   </channel>

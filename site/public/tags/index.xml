@@ -7,9 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 05 Apr 2020 02:11:19 +0100</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>untagged</title>
+      <link>/tags/untagged/</link>
+      <pubDate>Sun, 05 Apr 2020 02:11:19 +0100</pubDate>
+      
+      <guid>/tags/untagged/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible</title>
+      <link>/tags/ansible/</link>
+      <pubDate>Wed, 04 Jan 2017 15:04:10 +0000</pubDate>
+      
+      <guid>/tags/ansible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automation</title>
+      <link>/tags/automation/</link>
+      <pubDate>Wed, 04 Jan 2017 15:04:10 +0000</pubDate>
+      
+      <guid>/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>/tags/development/</link>
+      <pubDate>Wed, 04 Jan 2017 15:04:10 +0000</pubDate>
+      
+      <guid>/tags/development/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
