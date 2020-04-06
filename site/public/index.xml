@@ -13,12 +13,42 @@
     
     
     <item>
-      <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
-      <pubDate>Tue, 03 Mar 2020 15:04:29 +0100</pubDate>
+      <title>hello darkness</title>
+      <link>/post/hello-darkness/</link>
+      <pubDate>Sun, 05 Apr 2020 00:28:29 +0100</pubDate>
       
-      <guid>/posts/my-first-post/</guid>
-      <description>The little secrets of Chemex brewing The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils.</description>
+      <guid>/post/hello-darkness/</guid>
+      <description>hello</description>
+    </item>
+    
+    <item>
+      <title>Am I broken?</title>
+      <link>/automationa1/am-i-broken/</link>
+      <pubDate>Sat, 04 Apr 2020 23:23:29 +0100</pubDate>
+      
+      <guid>/automationa1/am-i-broken/</guid>
+      <description>???</description>
+    </item>
+    
+    <item>
+      <title>Am I broken?</title>
+      <link>/post/am-i-broken/</link>
+      <pubDate>Sat, 04 Apr 2020 23:23:29 +0100</pubDate>
+      
+      <guid>/post/am-i-broken/</guid>
+      <description>???</description>
+    </item>
+    
+    <item>
+      <title>OpenSauces First Tech Blog</title>
+      <link>/post/opensauces-first-tech-blog/</link>
+      <pubDate>Sat, 04 Apr 2020 22:41:01 +0100</pubDate>
+      
+      <guid>/post/opensauces-first-tech-blog/</guid>
+      <description>There are many tech blogs and websites out there covering what is useful information and all things tech.
+How can opensauce stand out. We will have to find this out together, experiencing the highs and lows of building and discussing all things technology and sauce.
+Until next time.
+The creators of opensauce.cloud </description>
     </item>
     
     <item>
@@ -32,16 +62,6 @@ Enjoy!! 😸 </description>
     </item>
     
     <item>
-      <title>A beginners’ guide to brewing with Chemex</title>
-      <link>/posts/brewing-chemex/</link>
-      <pubDate>Wed, 04 Jan 2017 15:04:10 +0000</pubDate>
-      
-      <guid>/posts/brewing-chemex/</guid>
-      <description>This week we’ll take a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts*.
-In 1958, designers at the Illinois Institute of Technology said that the Chemex Coffeemaker is &amp;ldquo;one of the best-designed products of modern times&amp;rdquo;, and so is included in the collection of the Museum of Modern Art in New York City.</description>
-    </item>
-    
-    <item>
       <title>Just in: small batch of Jamaican Blue Mountain in store next week</title>
       <link>/automation/jamaica-blue/</link>
       <pubDate>Wed, 04 Jan 2017 15:04:10 +0000</pubDate>
@@ -49,36 +69,6 @@ In 1958, designers at the Illinois Institute of Technology said that the Chemex 
       <guid>/automation/jamaica-blue/</guid>
       <description>We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
 Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.</description>
-    </item>
-    
-    <item>
-      <title>Just in: small batch of Jamaican Blue Mountain in store next week</title>
-      <link>/posts/jamaica-blue/</link>
-      <pubDate>Wed, 04 Jan 2017 15:04:10 +0000</pubDate>
-      
-      <guid>/posts/jamaica-blue/</guid>
-      <description>We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.</description>
-    </item>
-    
-    <item>
-      <title>Making sense of the SCAA’s new Flavor Wheel</title>
-      <link>/posts/making-1/</link>
-      <pubDate>Sat, 17 Dec 2016 15:04:10 +0000</pubDate>
-      
-      <guid>/posts/making-1/</guid>
-      <description>The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.</description>
-    </item>
-    
-    <item>
-      <title>Making sense of the SCAA’s new Flavor Wheel</title>
-      <link>/posts/making-sense/</link>
-      <pubDate>Sat, 17 Dec 2016 15:04:10 +0000</pubDate>
-      
-      <guid>/posts/making-sense/</guid>
-      <description>The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.</description>
     </item>
     
     <item>

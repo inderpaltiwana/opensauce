@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Coffee on Hugo Hermit</title>
+    <link>/automationa1/</link>
+    <description>Recent content in Our Coffee on Hugo Hermit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 04 Apr 2020 23:23:29 +0100</lastBuildDate>
+    
+	<atom:link href="/automationa1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Am I broken?</title>
+      <link>/automationa1/am-i-broken/</link>
+      <pubDate>Sat, 04 Apr 2020 23:23:29 +0100</pubDate>
+      
+      <guid>/automationa1/am-i-broken/</guid>
+      <description>???</description>
+    </item>
+    
+  </channel>
+</rss>

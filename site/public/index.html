@@ -33,6 +33,17 @@
 
 <body id="page">
 	
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 	<div id="spotlight" class="animated fadeIn">
 		<div id="home-center">
 			<h1 id="home-title">Hugo Hermit</h1>
@@ -45,6 +56,8 @@
 				<a href="/posts/">Posts</a>
 				<a href="/about-hugo/">About</a>
 				<a href="/automation/">Automation</a>
+				<a href="/posts/">Postsb</a>
+				<a href="/automationa1/">Automationa1</a>
 
 			</nav>
 		</div>

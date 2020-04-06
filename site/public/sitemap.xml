@@ -3,23 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/my-first-post/</loc>
-    <lastmod>2020-03-03T15:04:29+01:00</lastmod>
+    <loc>/post/hello-darkness/</loc>
+    <lastmod>2020-04-05T00:28:29+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2020-03-03T15:04:29+01:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2020-04-05T00:28:29+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-03-03T15:04:29+01:00</lastmod>
+    <loc>/automationa1/am-i-broken/</loc>
+    <lastmod>2020-04-04T23:23:29+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/untagged/</loc>
-    <lastmod>2020-03-03T15:04:29+01:00</lastmod>
+    <loc>/post/am-i-broken/</loc>
+    <lastmod>2020-04-04T23:23:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/automationa1/</loc>
+    <lastmod>2020-04-04T23:23:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/opensauces-first-tech-blog/</loc>
+    <lastmod>2020-04-04T22:41:01+01:00</lastmod>
   </url>
   
   <url>
@@ -33,11 +43,6 @@
   </url>
   
   <url>
-    <loc>/posts/brewing-chemex/</loc>
-    <lastmod>2017-01-04T15:04:10+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/automation/</loc>
     <lastmod>2017-01-04T15:04:10+00:00</lastmod>
   </url>
@@ -45,21 +50,6 @@
   <url>
     <loc>/automation/jamaica-blue/</loc>
     <lastmod>2017-01-04T15:04:10+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/jamaica-blue/</loc>
-    <lastmod>2017-01-04T15:04:10+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/making-1/</loc>
-    <lastmod>2016-12-17T15:04:10+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/making-sense/</loc>
-    <lastmod>2016-12-17T15:04:10+00:00</lastmod>
   </url>
   
   <url>
@@ -78,6 +68,10 @@
   
   <url>
     <loc>/products/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
   </url>
   
   <url>
