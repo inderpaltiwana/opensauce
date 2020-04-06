@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo Hermit</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Hugo Hermit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 05 Apr 2020 00:28:29 +0100</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hello darkness</title>
+      <link>/post/hello-darkness/</link>
+      <pubDate>Sun, 05 Apr 2020 00:28:29 +0100</pubDate>
+      
+      <guid>/post/hello-darkness/</guid>
+      <description>hello</description>
+    </item>
+    
+    <item>
+      <title>Am I broken?</title>
+      <link>/post/am-i-broken/</link>
+      <pubDate>Sat, 04 Apr 2020 23:23:29 +0100</pubDate>
+      
+      <guid>/post/am-i-broken/</guid>
+      <description>???</description>
+    </item>
+    
+    <item>
+      <title>OpenSauces First Tech Blog</title>
+      <link>/post/opensauces-first-tech-blog/</link>
+      <pubDate>Sat, 04 Apr 2020 22:41:01 +0100</pubDate>
+      
+      <guid>/post/opensauces-first-tech-blog/</guid>
+      <description>There are many tech blogs and websites out there covering what is useful information and all things tech.
+How can opensauce stand out. We will have to find this out together, experiencing the highs and lows of building and discussing all things technology and sauce.
+Until next time.
+The creators of opensauce.cloud </description>
+    </item>
+    
+  </channel>
+</rss>
