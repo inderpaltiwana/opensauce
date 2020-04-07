@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Hugo Hermit"
+title = "opensauce.cloud"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
@@ -36,7 +36,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "A minimal and fast theme for Hugo."
+  homeSubtitle = "A blog of all things open and cloud, with a bit of sauce."
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
@@ -65,7 +65,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   [[params.social]]
     name = "github"
-    url = "https://github.com/"
+    url = "https://github.com/inderpaltiwana"
 
 [menu]
 
@@ -75,21 +75,16 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     weight = 10
 
   [[menu.main]]
-    name = "About"
-    url = "about-hugo/"
+    name = "Automation"
+    url = "automation/"
     weight = 20
 
   [[menu.main]]
-    name = "Automation"
-    url = "automation/"
-    weight = 30
-
-  [[menu.main]]
-    name = "Postsb"
-    url = "posts/"
+    name = "Containers"
+    url = "containers/"
     weight = 40
 
  [[menu.main]]
-    name = "Automationa1"
-    url = "automationa1/"
+    name = "Admin"
+    url = "admin/"
     weight = 50
