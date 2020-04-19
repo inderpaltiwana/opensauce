@@ -3,7 +3,7 @@ title: 'The Corona Diaries - P2'
 date: 2020-04-19T22:47:19+01:00
 draft: false
 description: >- 
-  To quote a historical figure, there was an idea?
+  To quote a great historical figure, Nick Fury, there was an idea?
 ---
 ## There was an idea
 
