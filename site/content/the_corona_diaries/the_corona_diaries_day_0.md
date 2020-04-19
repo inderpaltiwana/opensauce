@@ -1,5 +1,5 @@
 ---
-title: 'The Corona Diaries - Pt 1'
+title: 'The Corona Diaries - P1'
 date: 2020-04-07T17:11:19+01:00
 draft: false
 description: >- 
@@ -9,7 +9,7 @@ description: >-
 
 Blogs?
 
-Traders?
+Trading?
 
 Twitter?
 
@@ -22,6 +22,11 @@ Oh and did I mention it would be running on kubernetes. oooooooooooh
 ## Tasks for the week?
 
 Spin up a Kubernetes flavour of choice, most probably OKD/OpenShift. But as I said that is a task for tomorrow.
+
+## Whats going on this week?
+
+EU markets have a multi day rally & Crypto looking to hit a top, halvening and other events going on.
+Twitter continues to drain me, Gymming it at home? currently on hold.
 
 ##### The creators of opensauce.cloud
 
