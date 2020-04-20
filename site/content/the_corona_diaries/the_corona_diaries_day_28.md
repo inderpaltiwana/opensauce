@@ -31,6 +31,3 @@ Linked to this, a python bot which can execute trading strategies based on simpl
 
 Day 28 of lockdown
 
-----
-
-
