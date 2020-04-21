@@ -14,6 +14,3 @@ How can we get started on this?
 ## How can we make it useful
 
 what can we use it for?
-
-
-

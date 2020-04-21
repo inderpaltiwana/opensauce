@@ -28,8 +28,3 @@ Spin up a Kubernetes flavour of choice, most probably OKD/OpenShift. But as I sa
 EU markets have a multi day rally & Crypto looking to hit a top, halvening and other events going on.
 Twitter continues to drain me, Gymming it at home? currently on hold.
 
-##### The creators of opensauce.cloud
-
-
-
-

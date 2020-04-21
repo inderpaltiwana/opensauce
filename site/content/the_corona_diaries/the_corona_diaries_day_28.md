@@ -31,11 +31,3 @@ Linked to this, a python bot which can execute trading strategies based on simpl
 
 Day 28 of lockdown
 
-----
-##### The creators of opensauce.cloud
-
-
-`Word Count - 306 words`
-`Time To Read - 2 minutes`
-`Sentiment - Corona'd`
-
